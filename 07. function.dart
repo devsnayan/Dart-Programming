@@ -1,7 +1,7 @@
 // Developer Mohammad Nayan
 
 // *********************
-// Single expression Function (Array Function)
+//Lamda or Single expression Function (Arrow Function)
 void main() {
   print(arrFun(10, 15));
 }
